@@ -43,9 +43,9 @@ endobj
 << /Type /Pages /Kids [ 11 0 R ] /Count 1 >>
 endobj
 13 0 obj
-<< /Creator (Matplotlib v3.7.1, https://matplotlib.org)
-/Producer (Matplotlib pdf backend v3.7.1)
-/CreationDate (D:20231226120321-04'00') >>
+<< /Creator (Matplotlib v3.10.7, https://matplotlib.org)
+/Producer (Matplotlib pdf backend v3.10.7)
+/CreationDate (D:20251204100216-04'00') >>
 endobj
 xref
 0 14
@@ -66,5 +66,5 @@ xref
 trailer
 << /Size 14 /Root 1 0 R /Info 13 0 R >>
 startxref
-1163
+1165
 %%EOF
