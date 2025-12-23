@@ -1,0 +1,6 @@
+# python Recon/recon.py-D-Q0-bFlu_repertoire_subsamples_for_figs_4ab/error_bar_parameters.txt-oFlu_repertoire_subsamples_for_figs_4ab/112920_subsamples/recon_output_SRR960335_hIgG_annotated_1e5_PBvB7.txtFlu_repertoire_subsamples_for_figs_4ab/112920_subsamples/reconstructed_SRR960335_hIgG_annotated_1e5_PBvB7.txt
+# infiles = ['Flu_repertoire_subsamples_for_figs_4ab/112920_subsamples/reconstructed_SRR960335_hIgG_annotated_1e5_PBvB7.txt']
+# observed_threshold = 30
+# precomputed_error_bar_file = Flu_repertoire_subsamples_for_figs_4ab/error_bar_parameters.txt
+sample_name	obs_0.0D	est_0.0D	est_0.0D-	est_0.0D+
+Flu_repertoire_subsamples_for_figs_4ab/112920_subsamples/reconstructed_SRR960335_hIgG_annotated_1e5_PBvB7.txt	14126.0	36562.55358143192	32101.92204449723	45189.21022356357
